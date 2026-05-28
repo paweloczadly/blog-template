@@ -1,9 +1,8 @@
 # blog-template
 
-
-# blog-template
-
+<!--
 ![CI](https://github.com/paweloczadly/blog-template/actions/workflows/gh-pages.yml/badge.svg)
+-->
 
 Template repository for GitHub Pages blogs.
 
